@@ -40,7 +40,7 @@
 </div>
 <hr>
 <br>
-<form method="POST" style = "margin-left : 30%;">
+<form method="POST" action="" style = "margin-left : 30%;">
   <div class="form-group row">
     <label for="nim" class="col-2 col-form-label">NIM</label> 
     <div class="col-5">
