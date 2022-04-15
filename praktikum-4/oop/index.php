@@ -5,7 +5,7 @@ include_once "Kucing.php";
 $garfield = new Kucing("Garfield", 5, "Oren");
 $bolang = new Kucing("Bolang", 10, "Belang hitam");
 
-echo $garfield->nama, "<br>";
+// echo $garfield->nama, "<br>";
 
 echo $garfield->makan(), "<br>";
 echo $garfield->tidur(), "<br>";
